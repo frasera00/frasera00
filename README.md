@@ -16,10 +16,10 @@ I am a Computational Physicist with a deep interest in statistical modelling, da
 
 ## Featured Projects
 
-### 🧬 GrafTo: Polymer-Grafted Surface Analysis Tool
+### 🧬 GrafTo: Polymer-Grafted Surfaces Builder
 Libraries for building and analyzing coarse-grained molecular dynamics structures of polymer-grafted surfaces. These tools help researchers efficiently set up, visualize, and interpret simulation data for polymers at interfaces.
 
-### 🤖 Autoencoder for Intrinsic State Variables (ISVs)
+### 🤖 PyISV: Autoencoder to find Intrinsic State Variables (ISVs)
 A neural network autoencoder designed to identify suitable intrinsic state variables for complex materials, such as metallic nanoclusters. This work aims to bridge the gap between data-driven insights and physical understanding in material science.
 
 ### ⚽ World Cup Monte Carlo Simulation
