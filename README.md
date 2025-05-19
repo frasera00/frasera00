@@ -1,7 +1,3 @@
-Thank you for the detailed description! Here’s a draft for your README.md that highlights your background, main areas of expertise, and showcases your most important projects:
-
----
-
 # frasera00
 
 Welcome to my GitHub profile!  
@@ -38,4 +34,3 @@ A web-based application that leverages Large Language Models and Retrieval-Augme
 - 🏛️ Sapienza Università di Roma
 - 📧 Email: fabiorasera00@gmail.com
 
----
