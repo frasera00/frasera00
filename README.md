@@ -5,14 +5,16 @@ I am a Computational Physicist with a deep interest in statistical modelling, da
 
 ## About Me
 
+- **Current Job** Geophysicist at Viridien, Rio de Janeiro
 - **Background:** PhD in Applied and Theoretical Mechanics, from Sapienza Università di Roma  
-- **Research Interests:**  
+- **Research Interests:**
+  - Seismic data
+  - Full Waveform Inversion     
   - Statistical modelling  
   - Data science & machine learning
   - Large Language Models 
   - Molecular dynamics simulations  
   - Complex materials
-- **Current Focus:** Developing tools and models to analyze, simulate, and understand the intrinsic properties of advanced materials.
 
 ## Featured Projects
 
@@ -32,5 +34,6 @@ A web-based application that leverages Large Language Models and Retrieval-Augme
 
 - 📫 [GitHub Profile](https://github.com/frasera00)
 - 🏛️ Sapienza Università di Roma
-- 📧 Email: fabiorasera00@gmail.com
+- 💼 Viridien
+- 📧 Email: fabiorasera00@gmail.com / fabio.rasera@virdiengroup.com / fabio.raserafigueiredo@uniroma1.it
 
