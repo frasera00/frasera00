@@ -8,7 +8,7 @@ I am a Computational Physicist with a deep interest in statistical modelling, da
 - **Current Job** Geophysicist at Viridien, Rio de Janeiro
 - **Background:** PhD in Applied and Theoretical Mechanics, from Sapienza Università di Roma  
 - **Research Interests:**
-  - Seismic data
+  - Seismic data processing
   - Full Waveform Inversion     
   - Statistical modelling  
   - Data science & machine learning
