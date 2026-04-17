@@ -24,11 +24,17 @@ Libraries for building and analyzing coarse-grained molecular dynamics structure
 ### 🤖 PyISV: Autoencoder to find Intrinsic State Variables (ISVs)
 A neural network autoencoder designed to identify suitable intrinsic state variables for complex materials, such as metallic nanoclusters. This work aims to bridge the gap between data-driven insights and physical understanding in material science.
 
+### 〰️ SeismicApp: A seismic data simulator
+This is an interactive app to understand seismic acquisitions. You can generate different configurations of shots and receivers and see how the recorded signals change in real time. There are several features you can turn on and off for a better understanding of physical phenomena involving seismic acquisitions, like ghost waves and fold maps. This light-weight program is purely front-end and completely offline. It runs just on html, CSS and JavaScript.
+
 ### ⚽ World Cup Monte Carlo Simulation
 A fun project that applies Monte Carlo methods to simulate outcomes of the most recent World Cup, demonstrating the power of probabilistic modelling in real-world scenarios.
 
 ### 🎬 Movie Recommender App (LLM + RAG)
 A web-based application that leverages Large Language Models and Retrieval-Augmented Generation (RAG) to provide personalized movie recommendations. This project combines modern AI with an interactive user interface for an engaging experience.
+
+### 💡 Learning material
+I have been collecting material used for classes in several subjects: from basic physics to python programming. Here you will find a fully explained code in python to build a solitaire game, as well as several notebooks that explain concepts of the python language. There are also some physics notebooks, specially in the are of waves and wavelets, but the repositories will keep growing with time.
 
 ## Connect
 
