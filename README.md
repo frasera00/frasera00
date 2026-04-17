@@ -32,7 +32,7 @@ A web-based application that leverages Large Language Models and Retrieval-Augme
 
 ## Connect
 
-- 📫 [GitHub Profile](https://github.com/frasera00)
+- 📫 [Linkedin profile](www.linkedin.com/in/frasera00)
 - 🏛️ Sapienza Università di Roma
 - 💼 Viridien
 - 📧 Email: fabiorasera00@gmail.com / fabio.rasera@virdiengroup.com / fabio.raserafigueiredo@uniroma1.it
