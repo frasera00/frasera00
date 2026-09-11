@@ -39,7 +39,7 @@ Git · GitHub · HTML · CSS · JavaScript · Streamlit · Web applications · I
 
 ## Featured Projects
 
-### 〰️ [SeismicApp — Interactive Seismic Acquisition Simulator](YOUR_REPOSITORY_LINK)
+### 〰️ [SeismicApp — Interactive Seismic Acquisition Simulator](https://github.com/frasera00/SeismicApp)
 
 An interactive browser-based application for exploring seismic-acquisition concepts.
 
@@ -53,7 +53,7 @@ Users can configure shots and receivers and observe how acquisition geometry aff
 
 ---
 
-### 🤖 [PyISV — Learning Intrinsic State Variables with Autoencoders](YOUR_REPOSITORY_LINK)
+### 🤖 [PyISV — Learning Intrinsic State Variables with Autoencoders](https://github.com/frasera00/PyISV)
 
 A machine-learning project that uses neural-network autoencoders to identify low-dimensional intrinsic state variables in complex materials.
 
@@ -66,7 +66,7 @@ The project investigates how representation learning can connect high-dimensiona
 
 ---
 
-### 🧬 [GrafTo — Polymer-Grafted Surfaces Builder](YOUR_REPOSITORY_LINK)
+### 🧬 [GrafTo — Polymer-Grafted Surfaces Builder](https://github.com/frasera00/GrafTo)
 
 Python tools for building, analyzing, and visualizing coarse-grained molecular-dynamics systems involving polymer-grafted surfaces.
 
@@ -79,7 +79,7 @@ GrafTo supports the creation of simulation-ready structures and helps researcher
 
 ---
 
-### ⚽ [World Cup Monte Carlo Simulation](YOUR_REPOSITORY_LINK)
+### ⚽ [World Cup Monte Carlo Simulation](https://github.com/frasera00/World_cup_simulation)
 
 A probabilistic simulation project that estimates football-tournament outcomes using Monte Carlo methods.
 
@@ -92,7 +92,7 @@ The project explores uncertainty, repeated sampling, scenario analysis, and prob
 
 ---
 
-### 🎬 [Movie Recommender — LLM + RAG Application](YOUR_REPOSITORY_LINK)
+### 🎬 [Movie Recommender — LLM + RAG Application](https://github.com/frasera00/Movie_recommendation_web_app)
 
 A web application that uses Large Language Models and Retrieval-Augmented Generation to provide context-aware movie recommendations.
 
