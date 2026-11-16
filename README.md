@@ -2,7 +2,7 @@
 
 I am a computational physicist and geophysicist based in Rio de Janeiro. I work at Viridien on seismic acquisition and processing, with a background in theoretical and applied mechanics, molecular dynamics, numerical modelling and scientific computing.
 
-I am interested in problems where physical understanding, data analysis and software engineering meet: seismic data quality, signal processing, inverse problems, statistical modelling and machine learning applied to scientific data.
+I am interested in problems where physical understanding, data analysis and software engineering meet: big data processing, inverse problems, statistical modelling and machine learning applied to scientific data.
 
 I hold a PhD in Theoretical and Applied Mechanics from Sapienza Università di Roma. Before moving into geophysics, I worked with molecular dynamics simulations and coarse-grained models of complex materials.
 
